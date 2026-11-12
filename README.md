@@ -1,2 +1,4 @@
 # MY-SQL-
-MY SQL Assignments
+MY SQL Assignment 1 include:
+*) DDL Commands
+*) Constraints
