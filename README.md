@@ -2,13 +2,18 @@
 🔗MY SQL Assignment 1 include:
      *) DDL Commands
      *) Constraints
+
+    
 🔗MY SQL Assignment 2 include;
      *) Distinct values
      *) Alias
      *) Where clause & operators
      *) Sorting & grouping data
      *) Joins
+
+     
 🔗MY SQL MODULE END ASSIGNMENT - Elearning analysis.sql include;
+
      📌*) Project Overview:
              This project analyzes online course purchase data for a global e-learning platform using a relational MySQL database (elearning_db) consisting of three linked tables: learners, courses, and purchases. The objective is to evaluate customer spending behavior, top-selling courses, category-level revenue, cross-category engagement, and unpurchased catalog inventory through SQL joins, aggregations, and analytical queries (Q1–Q5) to support data-driven marketing and product recommendations.
       📌*)What This Project Covers at a Glance:
