@@ -1,10 +1,12 @@
 # MY-SQL-
 🔗MY SQL Assignment 1 include:
+
      *) DDL Commands
      *) Constraints
 
     
 🔗MY SQL Assignment 2 include;
+
      *) Distinct values
      *) Alias
      *) Where clause & operators
